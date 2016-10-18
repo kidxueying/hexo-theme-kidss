@@ -84,6 +84,7 @@ search:
 [历史记录](log.md)
 
 [Hexo]: http://hexo.io/
+[hexo-theme-raytaylorism]: https://github.com/raytaylorism/hexo-theme-raytaylorism
 [我的博客]: http://kidxueying.github.io
 [Data Files]: https://hexo.io/docs/data-files.html
 [Materializecss色板]: http://materializecss.com/color.html#palette
